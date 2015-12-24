@@ -1,4 +1,4 @@
-[Flow] + [Babel] ⇒ [❤][love]
+[Flow] + [Babel] = Love
 ========
 Use javascript in modern and safe way **Right Now**.
 
@@ -11,4 +11,3 @@ npm run build
 
 [Flow]: http://flowtype.org
 [Babel]: https://babeljs.io/
-[love]: https://encrypted.google.com/search?q=love&tbm=isch
