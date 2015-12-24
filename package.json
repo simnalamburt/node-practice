@@ -1,0 +1,31 @@
+{
+  "name": "flow-practice",
+  "version": "0.0.0",
+  "description": "Use javascript in modern and safe way.",
+  "main": "main.js",
+  "dependencies": {},
+  "devDependencies": {
+    "flow-bin": "^0.20.1"
+  },
+  "scripts": {
+    "test": "flow"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simnalamburt/flow-practice.git"
+  },
+  "author": "simnalamburt",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/simnalamburt/flow-practice/issues"
+  },
+  "homepage": "https://github.com/simnalamburt/flow-practice#readme",
+  "private": true,
+  "keywords": [
+    "flow",
+    "babel",
+    "modern",
+    "type",
+    "safety"
+  ]
+}
