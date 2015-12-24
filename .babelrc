@@ -1,0 +1,7 @@
+{
+  "presets": ["es2015", "stage-3"],
+  "plugins": [
+    "transform-es2015-modules-commonjs",
+    "syntax-flow", "transform-flow-strip-types"
+  ]
+}
