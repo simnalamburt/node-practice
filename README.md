@@ -10,5 +10,16 @@ npm test
 npm run build
 ```
 
+### Wow
+```javascript
+// main.js
+
+var hello = (): string => {
+  return 'Hello, world';
+};
+
+export { hello };
+```
+
 [Flow]: http://flowtype.org
 [Babel]: https://babeljs.io/
