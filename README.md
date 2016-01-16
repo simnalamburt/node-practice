@@ -2,7 +2,7 @@
 ========
 Use javascript in modern and safe way **Right Now**.
 
-```console
+```shell
 # Requires node ≥ 5.0.0
 
 # Install dependencies
