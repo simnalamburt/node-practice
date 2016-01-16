@@ -1,9 +1,6 @@
 [ignore]
-.*/node_modules/.*
-
-[include]
-
-[libs]
-
-[options]
-module.system=node
+.*/node_modules/babel-helper-builder-binary-assignment-operator-visitor
+.*/node_modules/babel-helper-explode-assignable-expression
+.*/node_modules/babel-helper-remap-async-to-generator
+.*/node_modules/babel-template
+.*/node_modules/babel-traverse
