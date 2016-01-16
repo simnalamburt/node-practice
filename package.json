@@ -14,7 +14,8 @@
   },
   "scripts": {
     "test": "flow",
-    "build": "babel src --out-dir build"
+    "build": "flow && babel src --out-dir build",
+    "start": "babel src --out-dir build --watch"
   },
   "repository": {
     "type": "git",
