@@ -1,9 +1,4 @@
 {
-  "name": "flow-practice",
-  "version": "0.0.0",
-  "description": "Use javascript in modern and safe way.",
-  "main": "build/main.js",
-  "dependencies": {},
   "devDependencies": {
     "babel-cli": "^6.3.17",
     "babel-plugin-syntax-flow": "^6.3.13",
@@ -16,23 +11,5 @@
     "test": "flow",
     "build": "flow && babel src --out-dir build",
     "start": "babel src --out-dir build --watch"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/simnalamburt/flow-practice.git"
-  },
-  "author": "simnalamburt",
-  "license": "BSD-2-Clause",
-  "bugs": {
-    "url": "https://github.com/simnalamburt/flow-practice/issues"
-  },
-  "homepage": "https://github.com/simnalamburt/flow-practice#readme",
-  "private": true,
-  "keywords": [
-    "flow",
-    "babel",
-    "modern",
-    "type",
-    "safety"
-  ]
+  }
 }
